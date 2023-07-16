@@ -17,6 +17,7 @@ Made with ❤️ for Data Science 🔬 🧮 and Python 🐍
 
 ### Table of Contents
 
+- [Jupyter](./jupyter.ipynb)
 - [Numpy](./numpy.ipynb)
 - [Pandas](./pandas.ipynb)
 
